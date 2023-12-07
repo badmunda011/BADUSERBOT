@@ -45,6 +45,6 @@ validators
 vcam
 
 git+https://github.com/HellBoy-OP/py-googletrans
-git+https://github.com/badmunda98/Wikipedia
+git+https://github.com/HellBoy-OP/Wikipedia
 git+https://github.com/badmunda98/yt-dp-fork
 git+https://github.com/badmunda98/yt-search-python
